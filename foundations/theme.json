@@ -1,0 +1,18 @@
+{
+  "radius": {
+    "default": {
+      "value": "6",
+      "type": "borderRadius"
+    }
+  },
+  "spacing": {
+    "small": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "large": {
+      "value": "32",
+      "type": "spacing"
+    }
+  }
+}

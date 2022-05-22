@@ -1,0 +1,22 @@
+{
+  "card": {
+    "gap": {
+      "value": "{spacing.small}",
+      "type": "spacing"
+    },
+    "padding": {
+      "horizontal": {
+        "value": "{spacing.large}",
+        "type": "spacing"
+      },
+      "vertical": {
+        "value": "{spacing.large}",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "value": "{radius.default}",
+      "type": "borderRadius"
+    }
+  }
+}
